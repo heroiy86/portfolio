@@ -4,21 +4,17 @@
 
 ## プロジェクト一覧
 
-### 1. テトリスゲーム
-- シンプルなテトリスゲーム
-- 使用技術: HTML, CSS, JavaScript
+### Games
 
-### 2. 同じゲーム (Same Game)
-- 同じ色のブロックを消すパズルゲーム
-- 使用技術: HTML, CSS, JavaScript
+- **Tetris Game**: シンプルなテトリスゲーム (HTML, CSS, JavaScript)
+- **Same Game**: 同じ色のブロックを消すパズルゲーム (HTML, CSS, JavaScript)
+- **Maze Game**: ランダム生成される迷路ゲーム (HTML, CSS, JavaScript)
+- **Shape Game**: 図形を操作するパズルゲーム (HTML, CSS, JavaScript)
 
-### 3. MP4 to MP3 コンバーター
-- 動画ファイルを音声ファイルに変換するツール
-- 使用技術: HTML, JavaScript, Web Audio API
+### Tools
 
-### 4. ポモドーロタイマー
-- 集中力を高めるためのタイマーアプリ
-- 使用技術: HTML, CSS, JavaScript
+- **MP4 to MP3 Converter**: 動画ファイルを音声ファイルに変換するツール (HTML, JavaScript, Web Audio API)
+- **Pomodoro Timer**: 集中力を高めるためのタイマーアプリ (HTML, CSS, JavaScript)
 
 ## ローカルでの実行方法
 
