@@ -1,0 +1,38 @@
+:root { color-scheme: light; }
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  font-family: "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Noto Sans JP", sans-serif;
+  background: #f7f5e8;
+  color: #33322e;
+  line-height: 1.8;
+}
+.wrap { max-width: 720px; margin: 0 auto; padding: 24px 20px 64px; }
+header.site {
+  text-align: center;
+  padding: 28px 16px 20px;
+}
+header.site .logo { font-size: 40px; }
+header.site h1 { font-size: 22px; color: #6d4c41; margin-top: 4px; }
+header.site p { color: #8d6e63; font-size: 13px; }
+h2 {
+  font-size: 22px;
+  color: #6d4c41;
+  border-bottom: 3px solid #ffd54f;
+  padding-bottom: 8px;
+  margin: 8px 0 20px;
+}
+h3 { font-size: 16px; color: #5d4037; margin: 22px 0 6px; }
+p, li { font-size: 15px; }
+ul { padding-left: 22px; margin: 6px 0; }
+strong { color: #bf360c; }
+.card {
+  background: #fffdf4;
+  border: 1px solid #e8e2c8;
+  border-radius: 16px;
+  padding: 24px 22px;
+}
+.date { margin-top: 26px; color: #8d6e63; font-size: 13px; text-align: right; }
+.nav { text-align: center; margin: 22px 0 0; font-size: 14px; }
+.nav a { color: #00838f; text-decoration: none; margin: 0 10px; }
+.nav a:hover { text-decoration: underline; }
+footer { text-align: center; color: #a1887f; font-size: 12px; margin-top: 36px; }
